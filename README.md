@@ -1,4 +1,4 @@
-# Super resolution toolbox
+# Super resolution toolboxes
 ====
 
 ## 模型介绍
