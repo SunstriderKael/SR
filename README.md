@@ -10,6 +10,7 @@ ESRGAN/Meta-SR/SPSR, AdaFM, CARN/MCAN. 其中:
 (2)轻量级模型CARN/MCAN, 支持移动端模型移植.
 
 
+
 ## 训练结果
 -------
 (1) ESRGAN使用mmsr工具箱进行训练, uban100数据集上的PSNR为24.6. 目前仅支持x4超分, 可修改mmsr工具箱的config文件进行不同尺度的训练;
@@ -21,6 +22,7 @@ ESRGAN/Meta-SR/SPSR, AdaFM, CARN/MCAN. 其中:
 (4) CARN支持x4/x3/x2, uban100数据集上的PSNR为30.42，感知效果好;
 
 (5) MCAN支持x4/x3/x2, uban100数据集上的PSNR为30.03，感知效果好.
+
 
 
 ## 模型使用
